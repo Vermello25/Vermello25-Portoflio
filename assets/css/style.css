@@ -1,0 +1,58 @@
+/* Was not able to finsih styling the webpage. I will come back to it eventually. */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: gray;
+    
+}
+
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ff6b00;
+    color: black;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+  
+}
+
+header nav ul {
+    list-style-type: none;
+   
+    
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a   {
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.contact-me ul{
+    list-style: none;
+}
+
+.contact-me ul li {
+    display: inline-block;
+    margin-left: 15px;
+    padding: 10px;
+}
